@@ -1,6 +1,4 @@
 "use client";
-import { useState } from "react";
-
 const AboutRemainingContent = () => {
   return (
     <div className="lg:overflow-y-scroll lg:h-[400px] overscroll-none">

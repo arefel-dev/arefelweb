@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Nav from "@/components/Nav";
 import Banner from "@/components/Banner";
 import About from "@/components/About";
