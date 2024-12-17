@@ -1,4 +1,3 @@
-import Image from "next/image";
 export default function How() {
   return (
     <div className="mb-10">
